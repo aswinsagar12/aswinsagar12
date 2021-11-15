@@ -1,7 +1,7 @@
 ### Hi there, I'm Aswin Sagar - aka [aswinsagar12][website] 👋
 
-[![Instagram](https://www.instagram.com/aswin.sagar/)](https://www.instagram.com/aswin.sagar/)
-[![Twitter Follow](https://twitter.com/Aswinsagar12)](https://twitter.com/Aswinsagar12)
+[![Instagram] (https://www.instagram.com/aswin.sagar/)](https://www.instagram.com/aswin.sagar/)
+[![Twitter Follow] (https://twitter.com/Aswinsagar12)](https://twitter.com/Aswinsagar12)
 
 ## I'm a Coder, Gamer, Developer, and Listener!!
 
