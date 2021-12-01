@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MEAN Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [github/aswinsagar12](github/aswinsagar12)
+- 👨‍💻 All of my projects are available at [https://github.com/aswinsagar12](GitHub)
 
 - 💬 Ask me about **HTML, CSS, JS**
 
