@@ -21,7 +21,7 @@
 <a href="https://stackoverflow.com/users/17560812/wrong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17560812/wrong" height="30" width="40" /></a>
 <a href="https://www.facebook.com/aswinsagar99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/aswinsagar99" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aswin.sagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aswin.sagar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucxfseptrh0xhwbevjc4hcja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxfseptrh0xhwbevjc4hcja" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXFSeptRh0XhWBEVjc4HCJA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxfseptrh0xhwbevjc4hcja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
