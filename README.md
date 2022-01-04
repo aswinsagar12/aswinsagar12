@@ -2,7 +2,7 @@
 
 <h3 align="center">A Passionate Full-Stack Developer From India (Kerala)</h3>
 
-- 🔭 I’m currently working on **PixelSten**
+- 🔭 I’m passionately  working on **PixelSten**
 
 - 🌱 I’m currently learning **MEAN Full-Stack Development**
 
