@@ -4,7 +4,7 @@
 
 - 🔭 I’m passionately  working on **PixelSten**
 
-- 🌱 I’m currently learning **MEAN Full-Stack Development**
+- 🌱 I’m currently learning **MEAN Stack Development**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/aswinsagar12)
 
