@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aswin Sagar</h1>
 
-<h3 align="center">A Passionate Full-Stack Developer From India (Kerala)</h3>
+<h3 align="center">A Passionate DevOps and Cloud Engineer From India</h3>
 
-- 🔭 I’m passionately  working on **PixelSten**
+- 🔭 I’m passionately  working at **HCLTech**
 
-- 🌱 I’m currently learning **MEAN Stack Development**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/aswinsagar12)
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **Docker, Jenkins, CICD, Linux and Cloud**
 
 - 📫 How to reach me **aswinsagar12@gmail.com**
 
